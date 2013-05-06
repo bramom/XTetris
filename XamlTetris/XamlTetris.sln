@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlTetris", "XamlTetris\XamlTetris.csproj", "{16AC974C-FDE9-4C33-A718-05E382FD8105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamlTetris.Web", "XamlTetris.Web\XamlTetris.Web.csproj", "{FB32E9EE-EAB9-4721-912C-CD3D60FB3010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16AC974C-FDE9-4C33-A718-05E382FD8105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AC974C-FDE9-4C33-A718-05E382FD8105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AC974C-FDE9-4C33-A718-05E382FD8105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AC974C-FDE9-4C33-A718-05E382FD8105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB32E9EE-EAB9-4721-912C-CD3D60FB3010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB32E9EE-EAB9-4721-912C-CD3D60FB3010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB32E9EE-EAB9-4721-912C-CD3D60FB3010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB32E9EE-EAB9-4721-912C-CD3D60FB3010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
